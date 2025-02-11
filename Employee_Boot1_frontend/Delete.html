@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body> 
+
+    <form action="" id="form">
+        ID: <input type="number" id="id">
+        <input type="submit" value="Delete">
+
+    </form>
+
+    <SCRIpt>
+
+        document.getElementById("form")
+            addEventListener("submit", async function (event)
+            {
+              event.preventDefault();
+              const id=document.getElementById("id").value 
+              console.log(id);
+                try
+                {
+                    let res=await fetch(`http://localhost:8080/delete?employeeID=${id}`,
+                    {
+                        method:"DELETE"
+                    })
+
+                    if(res.status==302)
+                    {
+                        alert("deleted succesfully")
+                    }
+                    else
+                    {
+                        alert("data not found to delete")
+                    }
+                }
+                catch(error)
+                {
+                    console.log(error);
+                    
+                }
+            }
+        )
+    </SCRIpt>
+</body>
+</html>
