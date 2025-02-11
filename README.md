@@ -13,11 +13,11 @@ MySQLWorkBench / PostMan
 Spring Security (if authentication is implemented)
 
 🔹 Features:
-✅ Employee Registration & Management
-✅ CRUD Operations on Employee Data
-✅ Database Integration with JPA/Hibernate
-✅ Exception Handling & Validation
-✅ API Documentation with Swagger
+✅ Employee Registration & Management.<br>
+✅ CRUD Operations on Employee Data.<br>
+✅ Database Integration with JPA/Hibernate.<br>
+✅ Exception Handling & Validation.<br>
+✅ API Documentation with Swagger.
 
 ---
 2️⃣ Employee_Boot1_Frontend
@@ -30,10 +30,10 @@ HTML /CSS
 Fetch API (for API calls)
 
 🔹 Features:
-✅ User-friendly UI for Employee Management
-✅ REST API Integration with Backend
-✅ Responsive Design
-✅ Search & Filter Employee Records
+✅ User-friendly UI for Employee Management.<br>
+✅ REST API Integration with Backend.<br>
+✅ Responsive Design.<br>
+✅ Search & Filter Employee Records.
 
 ---
 3️⃣ Student_Boot1-1
@@ -48,7 +48,7 @@ POSTMAN / MySQL Database
 Spring MVC
 
 🔹 Features:
-✅ Student Registration & Management
-✅ CRUD Operations on Student Data
-✅ Exception Handling & Validation
-✅ REST API with JSON Responses
+✅ Student Registration & Management.<br>
+✅ CRUD Operations on Student Data.<br>
+✅ Exception Handling & Validation.<br>
+✅ REST API with JSON Responses.
