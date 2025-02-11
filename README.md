@@ -3,16 +3,16 @@
 ---
 1️⃣ Employee_Boot1_Backend
 ---
-🚀 Description:
+# 🚀 Description:
 This is the backend service for the Employee Management System built using Spring Boot. It provides RESTful APIs for managing employees, including CRUD operations (Create, Read, Update, Delete).
 
-🔹 Tech Stack:
+# 🔹 Tech Stack:
 Spring Boot
 Spring Data JPA
 MySQLWorkBench / PostMan
 Spring Security (if authentication is implemented)
 
-🔹 Features:
+# 🔹 Features:<br>
 ✅ Employee Registration & Management.<br>
 ✅ CRUD Operations on Employee Data.<br>
 ✅ Database Integration with JPA/Hibernate.<br>
@@ -22,14 +22,14 @@ Spring Security (if authentication is implemented)
 ---
 2️⃣ Employee_Boot1_Frontend
 ---
-🚀 Description:
+# 🚀 Description:
 This is the frontend application for the Employee Management System, built using React / Angular. It interacts with the Spring Boot backend to display and manage employee records.
 
-🔹 Tech Stack:
+# 🔹 Tech Stack:
 HTML /CSS
 Fetch API (for API calls)
 
-🔹 Features:
+# 🔹 Features:<br>
 ✅ User-friendly UI for Employee Management.<br>
 ✅ REST API Integration with Backend.<br>
 ✅ Responsive Design.<br>
@@ -38,16 +38,16 @@ Fetch API (for API calls)
 ---
 3️⃣ Student_Boot1-1
 ---
-🚀 Description:
+# 🚀 Description:
 This is a Spring Boot project for managing student records. It provides a set of REST APIs to handle student registration, retrieval, and updates.
 
-🔹 Tech Stack:
+# 🔹 Tech Stack:
 Spring Boot
 Spring Data JPA
 POSTMAN / MySQL Database
 Spring MVC
 
-🔹 Features:
+# 🔹 Features:<br>
 ✅ Student Registration & Management.<br>
 ✅ CRUD Operations on Student Data.<br>
 ✅ Exception Handling & Validation.<br>
